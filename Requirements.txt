@@ -1,0 +1,4 @@
+python = 3.6
+Pygame = 2.0.0
+time
+random
